@@ -22,11 +22,11 @@
 
 > A daily workout tracker that uses a Mongo database with a Mongoose schema and handles routes with Express. Users can create a new workout plan, add exercises to an existing workout plan, and view statistics about previous workouts.
 
-<img src="ScreenShot1 Page.png" width="100%" height="auto">
+<img src="./public/img/ScreenShot1 Page.png" width="100%" height="auto">
 
-<img src="ScreenShot2 Page.png" width="100%" height="auto">
+<img src="./public/img/ScreenShot2 Page.png" width="100%" height="auto">
 
-<img src="ScreenShot3 Page.png" width="100%" height="auto">
+<img src="./public/img/ScreenShot3 Page.png" width="100%" height="auto">
 
 <img src="https://thumbs.gfycat.com/IdealisticUnhealthyIbex-size_restricted.gif" width ="800">
 
