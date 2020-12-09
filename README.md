@@ -26,11 +26,11 @@
 
 <img src="http://drive.google.com/uc?id=1IJH2QTuJODp90F5D3MeQ7C3pRfcfQI9t" width ="100%" height="auto">
 
-<img src="https://thumbs.gfycat.com/IdealisticUnhealthyIbex-size_restricted.gif" width ="800">
+<img src="https://thumbs.gfycat.com/IdealisticUnhealthyIbex-size_restricted.gif" width ="100%" height="auto">
 
-<img src="https://thumbs.gfycat.com/HalfDecisiveBluefish-size_restricted.gif" width ="800">
+<img src="https://thumbs.gfycat.com/HalfDecisiveBluefish-size_restricted.gif" width ="100%" height="auto">
 
-<img src="https://thumbs.gfycat.com/BraveTallGyrfalcon-size_restricted.gif" width ="800">
+<img src="https://thumbs.gfycat.com/BraveTallGyrfalcon-size_restricted.gif" width ="100%" height="auto">
 
 
 ## Usage
