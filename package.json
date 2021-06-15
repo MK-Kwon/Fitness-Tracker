@@ -21,7 +21,7 @@
   "homepage": "https://github.com/MK-Kwon/Fitness-Tracker#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.12.10",
+    "mongoose": "^5.12.11",
     "morgan": "^1.10.0"
   }
 }
